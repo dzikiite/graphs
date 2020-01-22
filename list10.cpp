@@ -32,7 +32,7 @@ int *setGraph(int vertices, int edge)
 			}
 		}
 	} 
-	else if (answer == "n" || answer == "N" || answer == "N" || answer == "NO")
+	else if (answer == "n" || answer == "no" || answer == "N" || answer == "NO")
 	{
 		for (int i = 0; i < edge; i++)
 		{
